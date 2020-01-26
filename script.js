@@ -127,12 +127,14 @@ if(isdark == false) {
     darkbutton.onclick = function() {
         dark_mode.style.background = "rgba(0,0,0,0.7)";
         isdark = true;
+        darkbutton.innerHTML = "Dark mode ON";
     }
 }
 if(isdark == true) {
     darkbutton.onclick = function() {
         dark_mode.style.background = "rgba(0,0,0,0)";
         isdark = false;
+        darkbutton.innerHTML = "Dark mode OFF";
     }
 }
 
