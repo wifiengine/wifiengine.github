@@ -10,7 +10,7 @@ expand.onmouseenter = function() {
     expand.style.backgroundColor = "red";
 }
 expand.onmouseleave = function() {
-    expand.style.backgroundColor = "rgba(0, 0, 0, 0.8)";
+    expand.style.backgroundColor = "rgba(0, 0, 0, 0.4)";
 } 
 
 
