@@ -1,0 +1,22 @@
+body {
+	margin: 0%;
+}
+
+h1 {
+	margin: 0%;
+	font-family: Source Code Pro, tlwg typewriter, terminal, arial;
+    display: block;
+ 	background-color: red;
+ 	padding: 5px;
+}
+
+a {
+	margin: 20px;
+	display: inline-block;
+}
+img {
+	width: 20vh;
+	height: 20vh;
+	border: 1px solid black;
+	display: inline-block;
+}
